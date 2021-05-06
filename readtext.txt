@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Lupe Fiasco's Food & Liquor
 Lupe Fiasco's The Cool
+=======
+Fahrenheit 1/15
+Lupe Fiasco's Food & Liquor
+>>>>>>> feature2
